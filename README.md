@@ -13,9 +13,9 @@ Vehicle length (p-value 2.60e-12) and ground clearance (p-value 5.21e-08) look t
 ![total summary](deliverable2TotalSummary.png)
 
 ![lot_summary](deliverable2LotSummary.png)
+
 When analyzing all of the lots as one data set, we can conclude that the manufacturing process meets the design specifications of not exceeding 100psi in variance. The variance of the summary statistics was 62.29356. The manufacturing process does not meet the specifications when analyzing the data by lot. Lot 1 and Lot 2 meet specifications but Lot 3 does not. Lot's 3 variance is 170.2861224 and is well above the allowed 100psi.
 
 
 ## T-Tests on Suspension Coils
 
-then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
