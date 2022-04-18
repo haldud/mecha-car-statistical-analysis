@@ -38,3 +38,20 @@ When looking at only lot 2, the mean is 1500.2 and the p-value is 0.6072. It is 
 ![test lot3](deliverable3testLot3.png)
 
 Things are different for lot 3. Its mean is 1496.14 and the p-value is 0.04168. It is lower than 0.05 and we can as a result reject the null hypothesis.
+
+
+## Study Design: MechaCar vs Competition
+There are many ways to measure car quality, performance, and customer satisfaction. With today's advanced technologies and complexities of car designs, it seems that many cars suffer from recalls. Our study will focus on the number of recalls of MechaCars vs others.
+
+### Metrics to test
+The number of recalls in the first 10 years of ownership.
+### Null and alternative hypothesis
+#### Null
+MechaCars average about the same number of recalls in the first 10 years of ownership vs competition.
+#### Alternative
+MechaCars average statistically fewer recalls in the first 10 years of ownership vs competition.
+#### Statistical test to run
+We would run a two sample t-test to compare the number of recalls for MechaCars vs competition. We want to run this test, because we have two groups of samples with numeric value associated to each sample.
+### What data is needed to run the statistical test?
+We would need to collect two sets of data (MechaCar recalls and competition recalls) for the past 10 years.
+
