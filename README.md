@@ -21,16 +21,20 @@ When analyzing all of the lots as one data set, we can conclude that the manufac
 
 ### Test All Lots
 ![test all](deliverable3testAll.png)
+
 When looking at all of the lots combined, the mean is 1498.78 and the p-value is 0.06028. It is higher than 0.05 and we cannot reject the null hypothesis.
 
 ### Test Lots 1
 ![test lot1](deliverable3testLot1.png)
+
 When looking at only lot 1, the mean is 1500 and the p-value is 1. It is higher than 0.05 and we cannot reject the null hypothesis.
 
 ### Test Lots 2
 ![test lot2](deliverable3testLot2.png)
+
 When looking at only lot 2, the mean is 1500.2 and the p-value is 0.6072. It is higher than 0.05 and we cannot reject the null hypothesis.
 
 ### Test Lots 3
 ![test lot3](deliverable3testLot3.png)
+
 Things are different for lot 3. Its mean is 1496.14 and the p-value is 0.04168. It is lower than 0.05 and we can as a result reject the null hypothesis.
